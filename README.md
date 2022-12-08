@@ -6,7 +6,7 @@
 [Pytorch CNN Visualization Library](https://github.com/utkuozbulak/pytorch-cnn-visualizations) - This is the base library we extended to visualize adversarial inputs. We used roughly 1k lines of this code written in Python, which mainly using the PyTorch library.
 
 ## Datasets
-[ImageNet](https://www.image-net.org/) - An image database containing hundreds of thousands of images for each of one thousand classes. 
+[ImageNet](https://www.image-net.org/) - An image database containing millions of images labeled as one of 1000 classes. 
 
 ## File Descriptions
 The `src` directory contains all the source and executable code for this project. `GradientSaliency.ipynb`, `LayerwiseRelevance.ipynb`, `LayerCAM.ipynb`, `ScoreCAM.ipynb`, and `SmoothGrad.ipynb` are the files which included the modified library code used to produce each respective visualization. 
