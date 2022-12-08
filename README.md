@@ -3,9 +3,10 @@
 
 
 ## Open Source Code
-[Pytorch CNN Visualization Library](https://github.com/utkuozbulak/pytorch-cnn-visualizations) - This is the base library we extended to visualize adversarial inputs.
+[Pytorch CNN Visualization Library](https://github.com/utkuozbulak/pytorch-cnn-visualizations) - This is the base library we extended to visualize adversarial inputs. We used roughly 1k lines of this code written in Python, which mainly using the PyTorch library.
 
 ## Datasets
+ImageNet
 
 ## File Descriptions
 The `src` directory contains all the source and executable code for this project. 
