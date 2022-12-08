@@ -12,5 +12,5 @@ ImageNet
 The `src` directory contains all the source and executable code for this project. 
 
 ## Performance measuring tools
-[Final report slides](https://docs.google.com/presentation/d/1B4nlIPwYD1a5yyy9jYZ0WY2ttrhzmF-bHCAXQw_L5mg/edit?usp=sharing)
+[Final report slides]
 
