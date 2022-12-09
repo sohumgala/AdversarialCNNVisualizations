@@ -3,7 +3,9 @@
 
 
 ## Open Source Code
-[Pytorch CNN Visualization Library](https://github.com/utkuozbulak/pytorch-cnn-visualizations) - This is the base library we extended to visualize adversarial inputs. We used roughly 1k lines of this code written in Python, which mainly using the PyTorch library.
+[PyTorch CNN Visualization Library](https://github.com/utkuozbulak/pytorch-cnn-visualizations) - This is the base library we extended to visualize adversarial inputs. We used roughly 1k lines of this code written in Python, which mainly using the PyTorch library.
+
+PyTorch pretrained [AlexNet](https://pytorch.org/hub/pytorch_vision_alexnet/), [VGG16](https://pytorch.org/hub/pytorch_vision_vgg/), and [ResNet50](https://pytorch.org/hub/pytorch_vision_resnet/) - These are the pretrained models we used as a basis for our visualizations. 
 
 ## Datasets
 [ImageNet](https://www.image-net.org/) - An image database containing millions of images labeled as one of 1000 classes. 
