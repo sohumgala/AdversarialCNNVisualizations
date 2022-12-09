@@ -20,5 +20,5 @@ The `src` directory contains all the source and executable code for this project
 `img_diff_checker.ipynb` contains some exploratory code relating to analyzing absolute differences in image pixel values to understand where perturbations tend to be added.
 
 ## Performance Measuring Tools - Analysis
-[Final report slides]
+[Final report slides](https://github.com/sohumgala/AdversarialCNNVisualizations/blob/master/group2.FinalReport.AdvCNNVis.pdf)
 
